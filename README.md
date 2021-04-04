@@ -1,5 +1,3 @@
-
-
 ### Hi there 👋, Neha Surya Gouni
 ####  HPAIR'21 DELEGATE at Harvard University, USA | Microsoft Learn Student Ambassador - Beta | Planning Head at Honchous PVT.LTD | Founding Member and Program Chair Affair at Women Tech Network| 
 ![ HPAIR'21 DELEGATE at Harvard University, USA | Microsoft Learn Student Ambassador - Beta | Planning Head at Honchous PVT.LTD | Founding Member and Program Chair Affair at Women Tech Network| ](https://drive.google.com/file/d/1R-DTDz7fVkgBdRTQNDKRd6AmCzMFNXX7/view?usp=sharing)
@@ -10,6 +8,9 @@ Am An Undergrad Student MallaReddy College of Engineering and Technology, Intere
 Skills: PYTHON / MYSQL / AZURE / GCP / AI / ML / AR-VR / Computer Vision / Keras / Tensorflow / Tableau / Splunk
 
 - 🔭 I’m currently working on this page. 
+
+
+
 
 
 
