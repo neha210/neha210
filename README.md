@@ -4,6 +4,25 @@
 Public Speaker | Mentor | Tech Club Lead | Researcher | Blogger | Open source contributer | Communist |. </br>
 
 
+#### MY WORK EXPERIENCE AND CONTRIBUTIONS
+- RESEARCH INTERN at ([Machine Learning India](https://www.patreon.com/machinelearningindia)) - working on [Neuroimaging: Visualize 3D MRI Brain Scans with Python ](https://github.com/neha210/visualize-3D-MRI-IMAGES) - neurological diseases and delineating pathological regions have been analyzed by the anatomical structure of the brain from sample MRI images by Using the Nibabel Package.Visualize the obtained data by using IPython Widgets to allow for an interactive exploration of the data .
+- MICROSOFT LEARN STUDENT AMBASSADOR at ([Microsoft](https://studentambassadors.microsoft.com/en-US)) - Working on AI using Azure,GreenTech anf Gaming concepts. Helping students to learn technologies provided by Microsoft. Selected for Green Tech League on ‘vertical Farming Project’.
+- FOUNDER of ([GOCODE](https://www.youtube.com/channel/UCFtmxQzTmmnRqoCt8DDFfrQ)) - A community is driven by a will to embrace skills in AI/ML,AR/VR,OpenCV,Azure,GCP and OPEN SOURCE PROJECTs. Our mission is to improve technology in rural areas that make opportunities for students to improve performance in INNOVATIVE PROJECTS and MENTORSHIP by projects on ([COVID19 Data analysis using Python](https://github.com/neha210/Covid-19-analysis-using-python)) and Explosure of ([Github Learning Lab](https://github.com/neha210/github-slideshow))
+- FOUNDING MEMEBER AND SPEAKER at ([Women Tech Network](https://www.womentech.net/leaderboard/waWzeB6G91g?utm_source=sendinblue&utm_campaign=AMBSend-Profile-Link&utm_medium=email)) - A space for women in technology, minorities and allies by live events, technical experience , Open source project on ([Virtual Reality](https://github.com/womentechnetwork/virtual-reality-on-human)) and went on many speaking sessions about technology and Open Source Projects.
+- MENTOR at ([Women Tech Network](https://www.womentech.net/women-tech-mentors?combine=Surya+Gouni)). I nearly influenced 125+ women to kickstart their careers and represent their skills globally as a Founding Member and Mentee. 
+- PLANNING HEAD AND MENTOR at ([Honchous](https://honchous.com/)) - Leading the acts of Intermediary between community, developers, government entities, and business.
+Scheduling for project development and flow of requisite materials, Planning and analyzing the strategies of company programs. Conducting live Technical sessions ([Youtube CHaneel](https://www.youtube.com/channel/UC9TNO9UV4xFL6V64DgsDVTw)).
+-Chapter Lead – ([Coding Girls](https://www.coding-girls.com/about-us#:~:text=Coding%20Girls%20is%20a%20gender,balance%20in%20the%20tech%20world.)) -  lead girls to focus and improve the next generation to shift the paradigm and to create a balance on coding. A team of 5 girls and 4 boys conducted live sessions and workshops on Power Apps on AI, creating ([chatbots](https://github.com/neha210/Practical-Machine-Learning)) for portfolio, 3 days of Python concepts.
+
+#### Conferences
+- DELEGATE HPAIR'21 at ([Harvard University](https://hpair.org/harvard-conference-2021)) - 9[Selected](https://drive.google.com/file/d/1LPRo4j-2VJprHaR70YEani44QHhyTfiU/view?usp=sharing)) as one of the 1200 delegates from over 3000 Applicants from 60+ Countries.Participated in Deloitte Impact Challenge 2021.Solved A Case Study based on Leveraging analytics and Technology to optimize the stadium experience and drive attendance for an NBA Team.
+- SPEAKER at Women Tech Global Conference 2020 – Women Tech Network, Silicon Valley, USA.Startup Launch Program to achieve gender complementary in socio-economic context in corporate culture and policy solutions to make the change for women families.([Blog Post](https://www.womentech.net/blog/5-minutes-womentech-influencer-neha-suryagouni))
+
+#### Blog Posts - https://s-g-neha210.medium.com/
+([COVID19 Data Analysis using Python](https://s-g-neha210.medium.com/covid-19-data-analysis-using-python-fcd2f7bbb17b))
+([AWS Fundamentals](https://s-g-neha210.medium.com/aws-ed3de7f4804a))
+([Project Management](https://s-g-neha210.medium.com/overview-of-project-management-59597b31dafa))
+([AWS and How it Works](https://s-g-neha210.medium.com/aws-and-how-does-it-work-64ed482f0a83))
 
 
 
