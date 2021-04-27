@@ -1,7 +1,7 @@
 ## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Neha!!](https://www.linkedin.com/in/neha-surya-gouni-105822171/) 
 
 🎓 I’m an Undergrad student at Malla reddy College of Engineering and Technology. I work on AI/ML, Computer vision, Pytorch , Google cloud ML and Deep Learning Concepts . </br>
-Public Speaker | Mentor | Tech Club Lead | Researcher | Blogger | Open source contributer | Communist | Founder of GOCODE | AI/ML Enthusiat |. </br>
+Public Speaker | Mentor | Tech Club Lead | Researcher | Blogger | Open source contributer | Communist | Founder of GOCODE | AI/ML Enthusiat|. </br>
 
 
 #### MY WORK EXPERIENCE AND CONTRIBUTIONS
