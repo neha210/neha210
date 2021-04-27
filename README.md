@@ -14,17 +14,17 @@ Public Speaker | Mentor | Tech Club Lead | Researcher | Blogger | Open source co
 Scheduling for project development and flow of requisite materials, Planning and analyzing the strategies of company programs. Conducting live Technical sessions ([Youtube Channel](https://www.youtube.com/channel/UC9TNO9UV4xFL6V64DgsDVTw)).
 -Chapter Lead at [Coding Girls](https://www.coding-girls.com/about-us#:~:text=Coding%20Girls%20is%20a%20gender,balance%20in%20the%20tech%20world.) -  lead girls to focus and improve the next generation to shift the paradigm and to create a balance on coding. A team of 5 girls and 4 boys conducted live sessions and workshops on Power Apps on AI, creating ([chatbots](https://github.com/neha210/Practical-Machine-Learning)) for portfolio, 3 days of Python concepts.
 
-#### Conferences
+#### CONFERENCES
 - DELEGATE HPAIR'21 at ([Harvard University](https://hpair.org/harvard-conference-2021)) - 9[Selected](https://drive.google.com/file/d/1LPRo4j-2VJprHaR70YEani44QHhyTfiU/view?usp=sharing)) as one of the 1200 delegates from over 3000 Applicants from 60+ Countries.Participated in Deloitte Impact Challenge 2021.Solved A Case Study based on Leveraging analytics and Technology to optimize the stadium experience and drive attendance for an NBA Team.
 - SPEAKER at Women Tech Global Conference 2020 – Women Tech Network, Silicon Valley, USA.Startup Launch Program to achieve gender complementary in socio-economic context in corporate culture and policy solutions to make the change for women families.([Blog Post](https://www.womentech.net/blog/5-minutes-womentech-influencer-neha-suryagouni))
 
-#### Blog Posts - https://s-g-neha210.medium.com/
+#### BLOG POSTS - https://s-g-neha210.medium.com/
 ([COVID19 Data Analysis using Python](https://s-g-neha210.medium.com/covid-19-data-analysis-using-python-fcd2f7bbb17b))
 ([AWS Fundamentals](https://s-g-neha210.medium.com/aws-ed3de7f4804a))
 ([Project Management](https://s-g-neha210.medium.com/overview-of-project-management-59597b31dafa))
 ([AWS and How it Works](https://s-g-neha210.medium.com/aws-and-how-does-it-work-64ed482f0a83))
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">CONNECT WITH ME:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/neha-surya-gouni-105822171/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
