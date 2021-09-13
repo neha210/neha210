@@ -27,7 +27,7 @@ Scheduling for project development and flow of requisite materials, Planning and
 #### HONOURS AND AWARDS🏅
 - OXFORD ACHEIVER - Oxford University Press - ([Recognization](https://drive.google.com/file/d/1F5CXcqq5ZAPl8_2lZs_3COIXxtT-EnH_/view?usp=drivesdk)) english learning and assessment system alligned to common European framework of References of Languages.(CERF)
 - Women Tech Network Award -([Top 30 Finalist](https://www.womentech.net/blog/womentech-network-ambassador-year-award-2020-finalists)) the Founder of [GOCODE](https://www.linkedin.com/company/gc23456) a startup community that aims to help non-minority and backward area people to progress and learn in Technology for a better future and growth where we helped around 300 people to introduce and access free and affordable learning sites.On behalf of Women tech Network, I nearly influenced 125+ women to kickstart their careers and represent their skills globally.
-- Selected for [Google cloud career Readiness Program](https://edu.google.com/programs/career-readiness/?modal_active=none) -Completed Ultimate Milestone by 12 quest and 8 badges and got selected to one of the top google cloud students experts
+- Selected for [Google cloud career Readiness Program](https://edu.google.com/programs/career-readiness/?modal_active=none) -Completed Ultimate Milestone by 12 quest and 8 badges and got selected to one of the top google cloud students.
 - Selected for [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/certificate/94944792-bb3e-4b60-9814-3de35013fbc4) -  Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities, and develop technical and career skills for the future.
 
 
