@@ -1,6 +1,6 @@
 ## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Neha!!](https://www.linkedin.com/in/neha-surya-gouni-105822171/) 
 
-🎓 I’m an Grad student at Stevens Institute of Technology. UG at Malla reddy College of Engineering and Technology. I work on data science, Computer vision, Firebase , AWS ML , Excel , Power BI , Google cloud AutoML and Google Analytics . </br>
+🎓 Gen AI Engineer @ MIO Partners ,I’m an Grad student at Stevens Institute of Technology. UG at Malla reddy College of Engineering and Technology. I work on data science, Computer vision, Firebase , AWS ML , Excel , Power BI , Google cloud AutoML and Google Analytics . </br>
 Public Speaker | Mentor | Tech Club Lead | Researcher | Blogger | Open source contributer | Communist | Founder of GOCODE | AI/ML Enthusiat|. </br>
 
 
